@@ -1,0 +1,56 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+
+<link 
+
+	rel="stylesheet" 
+
+	href="css/exo-chiffres.css"/>
+
+
+
+</head>
+
+<body>
+
+<h1>EXO</h1>
+
+<table>
+
+<tr>
+
+<%
+
+int nombre = 
+
+	(Integer) request.getAttribute("nombre");
+
+int mod = 
+
+	(Integer) request.getAttribute("mod");
+
+
+
+for(int i = 1 ; i <= nombre; i++ ){
+
+	out.print("<td>" + i + "</td>");
+
+	if(i % mod == 0){
+
+		out.print("</tr><tr>");
+
+	}
+
+}
+
+%>
+
+</tr>
+</table>
+</body>
+</html>

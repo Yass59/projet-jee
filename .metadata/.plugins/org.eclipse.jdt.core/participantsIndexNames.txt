@@ -1,0 +1,9 @@
+INDEX VERSION 1.131
+C:\Users\59013-64-14\eclipse-workspace\jee\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3220473065.index
+\premier_projet_jee\src
+C:\Users\59013-64-14\eclipse-workspace\jee\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2425666194.index
+\premier_projet_jee\src
+C:\Users\59013-64-14\eclipse-workspace\jee\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3134139596.index
+\premier_projet_jee\src
+C:\Users\59013-64-14\eclipse-workspace\jee\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1606169105.index
+\site_web_jee\src

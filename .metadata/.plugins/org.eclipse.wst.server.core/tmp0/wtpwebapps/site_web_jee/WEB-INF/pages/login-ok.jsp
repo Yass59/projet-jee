@@ -1,0 +1,28 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<%
+
+String login = 
+
+(String) request.getAttribute("login");
+
+%>
+
+<h1>Login Ok</h1>
+<p>Bonjour <%=login %></p>
+
+
+
+
+
+
+
+</body>
+</html>

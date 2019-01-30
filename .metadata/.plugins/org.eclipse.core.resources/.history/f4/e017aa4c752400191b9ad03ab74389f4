@@ -1,0 +1,15 @@
+@charset "UTF-8";
+#titre{
+	text-align: center;
+}
+
+input{
+	display: block;
+	margin-top: 5px;
+	margin-bottom: 5px
+}
+
+
+form {
+	margin: auto;
+}

@@ -1,0 +1,16 @@
+
+@charset "UTF-8";
+
+
+
+tr, td, table {
+
+	border: red solid 1px;
+
+	border-collapse: collapse;
+
+	color: green;
+
+	font-size: 25px;
+
+}
